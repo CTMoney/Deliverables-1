@@ -29,3 +29,8 @@ NightBeat is made for an up and coming market that deals with the resale of limi
 
   Discord Mockups
 ![Mockups](https://puu.sh/Dh5Ix/4046c797a4.png)
+
+
+### UI/UX Flow
+
+![Flow](https://puu.sh/Dh6GR/73eb93dc22.png)
