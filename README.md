@@ -8,6 +8,8 @@ NightBeat is made for an up and coming market that deals with the resale of limi
   - Pair Programming:
     - Dillon Tidwell
     - Catherine Money
+  - Front End Developer:
+    - Luna Routsong
        
 ### Schedule (*as* *of* *4/15*)
 
@@ -18,3 +20,12 @@ NightBeat is made for an up and coming market that deals with the resale of limi
   * (4/29 - 5/6): Test route creation, captcha fillers, using proxies. ❔
   * (5/6 - 5/13): Connecting database to routes, additional security. ❔
   * (5/13 - 5/20): Presentable barebones version, rest of time before demo-day spent on creating nice presentation. ❔
+  
+  ### Planning 
+  
+  Discord Schedule
+![Schedule](https://puu.sh/Dh5Hk/d78843457e.png)
+
+
+  Discord Mockups
+![Mockups](https://puu.sh/Dh5Ix/4046c797a4.png)
