@@ -7,7 +7,7 @@ NightBeat is made for an up and coming market that deals with the resale of limi
 ### Role Breakdown
   - Pair Programming:
     - Dillon Tidwell
-    - Catherine Money
+    - C Money
   - Front End Developer:
     - Luna Routsong
        
